@@ -9,7 +9,7 @@ source ~/.cargo/
 ## rust最新版
 rustup default nightly
 
-## wasm32
+## add wasm32
 rustup target add wasm32-unknown-unknown
 
 ## ファイル実行
