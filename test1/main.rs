@@ -6,6 +6,5 @@ fn main() {
   let z = x + y;
 
   println!("{}", z);
-
-
+  
 }
